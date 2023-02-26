@@ -17,7 +17,7 @@ public class if_demo {
 		int age = 16;
 		System.out.println("Testing if condition starts: ");
 		if (age>18)
-		System.out.println("you are eligible to merry ||");
+		System.out.println("you are eligible to merry !!");
 
 	}
 
